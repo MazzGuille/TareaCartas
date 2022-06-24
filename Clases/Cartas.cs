@@ -21,6 +21,7 @@
                 MazoTotal[rndIndex] = tempVal;
                 lastIndex--;
             }
+            WriteLine("Se ha barajeado el mazo:\n");
             WriteLine(String.Join("\n", MazoTotal));
         }
 
