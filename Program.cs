@@ -1,6 +1,7 @@
 ﻿global using static System.Console;
 using TareaCartas.Clases;
 
+
 WriteLine("¡Bienvenido al mazo de cartas de MazzGames!");
 
 var Mazo = new Baraja();
@@ -55,4 +56,5 @@ Por favor, elige una de las siguientes opciones:
     }
     else { WriteLine("Has ingresado un valor invalido. Por favor, intentar nuevamente."); Loop = true; }
 }
+
 

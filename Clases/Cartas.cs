@@ -9,6 +9,5 @@
             "1 de Oro\n", "2 de Oro\n", "3 de Oro\n", "4 de Oro\n", "5 de Oro\n", "6 de Oro\n", "7 de Oro\n", "10 de Oro\n", "11 de Oro\n", "12 de Oro\n",
             "1 de Copas\n", "2 de Copas\n", "3 de Copas\n", "4 de Copas\n", "5 de Copas\n", "6 de Copas\n", "7 de Copas\n", "10 de Copas\n", "11 de Copas\n", "12 de Copas\n"
         };
-
     }
 };
