@@ -3,7 +3,7 @@ using TareaCartas.Clases;
 
 WriteLine("¡Bienvenido al mazo de cartas de MazzGames!");
 
-var Mazo = new Cartas();
+var Mazo = new Baraja();
 
 bool Loop = true;
 while (Loop)
